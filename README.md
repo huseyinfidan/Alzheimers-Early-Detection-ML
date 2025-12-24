@@ -16,7 +16,7 @@ Our comparative analysis shows that **Gradient Boosting** is the most effective 
 
 ## 📂 Project Structure
 - **`Alzheimer_Detection_Analysis.ipynb`**: The main Python notebook containing data preprocessing, EDA, model training, and evaluation.
-- **`PROJECT REPORT a.docx`**: Detailed academic report of the project.
+- **`Alzheimer_disease_project_report.pdf`**: Detailed academic report of the project.
 - **`alzheimers_disease_data.csv`**: The dataset used for training and testing.
 
 ## 🛠️ Technologies Used
