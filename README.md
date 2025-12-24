@@ -12,7 +12,7 @@ Our comparative analysis shows that **Gradient Boosting** is the most effective 
 | Random Forest | 92.50% |
 | Logistic Regression | 85.20% |
 
-![Model Comparison](Comparative_Accuracy_of_Algorithms.jpeg)
+![Model Comparison](Comparison.jpg)
 
 ## 📂 Project Structure
 - **`Alzheimer_Detection_Analysis.ipynb`**: The main Python notebook containing data preprocessing, EDA, model training, and evaluation.
